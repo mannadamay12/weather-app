@@ -1,7 +1,4 @@
 
-A simple weather app using HTML5, CSS3 and JavaScript along with OpenWeatherMap API. 
-~ You can get your API at https://openweathermap.org/
-
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -14,7 +11,7 @@ A simple weather app using HTML5, CSS3 and JavaScript along with OpenWeatherMap 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/mannadamay12/weather-app">
     <img src="public/images/weather-01-512.webp" alt="Logo" width="80" height="80">
   </a>
 
@@ -29,7 +26,7 @@ A simple weather app using HTML5, CSS3 and JavaScript along with OpenWeatherMap 
 
 
 <!-- TABLE OF CONTENTS -->
-<details open="open">
+<!-- <details open="open">
   <summary>Table of Contents</summary>
   <ol>
     <li>
@@ -55,11 +52,11 @@ A simple weather app using HTML5, CSS3 and JavaScript along with OpenWeatherMap 
 </details>
 
 
-
+ -->
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 
 
@@ -71,7 +68,7 @@ Here's why:
 Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
-
+ -->
 ### Built With
 
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
@@ -173,16 +170,16 @@ Project Link: [weather-app](https://github.com/mannadamay12/weather-app)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+<!-- [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors -->
+[forks-shield]: https://img.shields.io/github/forks/mannadamay12/weather-app.svg?style=for-the-badge
+[forks-url]: https://github.com/mannadamay12/weather-app/network/members
+[stars-shield]: https://img.shields.io/github/stars/mannadamay12/weather-app.svg?style=for-the-badge
+[stars-url]: https://github.com/mannadamay12/weather-app/stargazers
+[issues-shield]: https://img.shields.io/github/issues/mannadamay12/weather-app.svg?style=for-the-badge
+[issues-url]: https://github.com/mannadamay12/weather-app/issues
+<!-- [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
+[linkedin-url]: https://linkedin.com/in/adamaymann7
+<!-- [product-screenshot]: images/screenshot.png -->
